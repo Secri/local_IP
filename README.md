@@ -1,2 +1,3 @@
 # local_IP
-Widget which displays
+Tiny widget which displays the local IP of the machine.
+Images can be swap with your own.
